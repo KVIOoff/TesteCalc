@@ -1,0 +1,7 @@
+C:\Users\kaio2\Desktop\testerafa\testerafa\obj\Debug\testerafa.csproj.AssemblyReference.cache
+C:\Users\kaio2\Desktop\testerafa\testerafa\obj\Debug\testerafa.csproj.CoreCompileInputs.cache
+C:\Users\kaio2\Desktop\testerafa\testerafa\bin\Debug\testerafa.exe.config
+C:\Users\kaio2\Desktop\testerafa\testerafa\bin\Debug\testerafa.exe
+C:\Users\kaio2\Desktop\testerafa\testerafa\bin\Debug\testerafa.pdb
+C:\Users\kaio2\Desktop\testerafa\testerafa\obj\Debug\testerafa.exe
+C:\Users\kaio2\Desktop\testerafa\testerafa\obj\Debug\testerafa.pdb
